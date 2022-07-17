@@ -1,3 +1,10 @@
+<style>
+    img {
+        display: inline-block;
+    }
+</style>
+
+
 ### My technology stack
 
 
